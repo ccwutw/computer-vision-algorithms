@@ -23,10 +23,11 @@ This is an example to show how to recongize a book in a photo using some images 
 ```
 python run.py --detector ORB --descriptor ORB --matcher BF
 ```
-Sample:
+Sample:<br>
 <img alt="registration" src="Figures/image2.jpg" height="256">
 
-Result:
+
+Result:<br>
 <img alt="registration" src="Figures/BF-and-ORB.png" height="256">
 
 ## License
